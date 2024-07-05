@@ -1,0 +1,68 @@
+
+.tr-header, .backgruond
+{
+    background-color: rgb(54, 50, 50);
+}
+.logo{
+    width: 30%;
+}
+.giohang{
+    border-radius: 1px 1px 20px 20px;
+    background-color: orange;
+}
+.tit{
+    padding: 7px;
+}
+.pen, .user{
+    color: rgb(255, 255, 255);
+}
+.tr-maincontent{
+    border-top: 2px solid white;
+}
+.navbar-brand:hover, .nav-item:hover{
+    border-bottom:3px solid orange ;
+}
+
+.H21 :hover{
+    color:orange;
+}
+
+.gia:hover, .ten:hover{
+    color: orange;
+}
+
+.car{
+    width: 50px;
+    float: left;
+}
+
+.logo1{
+    width: 27%;
+}
+.day{
+    padding: 15px;
+}
+.lienhe{
+    font-size: 30px;
+}
+.sdt, .link, .mail{
+    color: rgb(77, 76, 76);
+}
+.sdt:hover, .link:hover, .mail:hover{
+    color: orange;
+}
+.sizetrong{
+    width: 500px;
+    border:1px solid rgb(44, 44, 44,.5);
+    border-radius: 5px;
+}
+.goiy{
+    border:1px solid rgba(105, 104, 104, 0.5);
+    border-radius: 5px;
+    
+}
+.sizegoiy{
+    width: 100px;
+}
+
+
